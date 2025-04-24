@@ -1,0 +1,12 @@
+C:\Users\st002490\source\repos\20250424-02\20250424-02\bin\Debug\20250424-02.exe.config
+C:\Users\st002490\source\repos\20250424-02\20250424-02\bin\Debug\20250424-02.exe
+C:\Users\st002490\source\repos\20250424-02\20250424-02\bin\Debug\20250424-02.pdb
+C:\Users\st002490\source\repos\20250424-02\20250424-02\bin\Debug\20250424-02.xml
+C:\Users\st002490\source\repos\20250424-02\20250424-02\obj\Debug\20250424-02.vbproj.AssemblyReference.cache
+C:\Users\st002490\source\repos\20250424-02\20250424-02\obj\Debug\_20250424_02.Form1.resources
+C:\Users\st002490\source\repos\20250424-02\20250424-02\obj\Debug\_20250424_02.Resources.resources
+C:\Users\st002490\source\repos\20250424-02\20250424-02\obj\Debug\20250424-02.vbproj.GenerateResource.cache
+C:\Users\st002490\source\repos\20250424-02\20250424-02\obj\Debug\20250424-02.vbproj.CoreCompileInputs.cache
+C:\Users\st002490\source\repos\20250424-02\20250424-02\obj\Debug\20250424-02.exe
+C:\Users\st002490\source\repos\20250424-02\20250424-02\obj\Debug\20250424-02.xml
+C:\Users\st002490\source\repos\20250424-02\20250424-02\obj\Debug\20250424-02.pdb
